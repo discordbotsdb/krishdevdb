@@ -22,18 +22,13 @@
 
 - 📄 Know about my experiences [https://krishdevdb.github.io/resume](https://krishdevdb.github.io/resume)
 
-- ⚡ Fun fact **I am **maybe** developing something**
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I am __maybe__ developing something**
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishdevdb&show_icons=true&locale=en&layout=compact" alt="krishdevdb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&locale=en" alt="krishdevdb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&locale=en" alt="krishdevdb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishdevdb&" alt="krishdevdb" /></p>
