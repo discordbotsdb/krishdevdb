@@ -29,15 +29,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/krishdevdb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="krishdevdb" height="30" width="40" /></a>
-<a href="https://dev.to/krishdevdb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="krishdevdb" height="30" width="40" /></a>
-<a href="https://twitter.com/krishdevdb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="krishdevdb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15149214" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15149214" height="30" width="40" /></a>
-<a href="https://fb.com/krishdevdb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="krishdevdb" height="30" width="40" /></a>
-<a href="https://medium.com/@krishdevdb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@krishdevdb" height="30" width="40" /></a>
-</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishdevdb&show_icons=true&locale=en&layout=compact" alt="krishdevdb" /></p>
