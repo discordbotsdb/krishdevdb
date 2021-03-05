@@ -7,12 +7,11 @@
     <h4>A Opensource Developer</h4>
 </div>
 <div align="center">
-<p>🔭 I’m currently working on <strong><a href="https://github.com/krishdevdb/reseter.css">Reseter.css</a></strong></p>
-<p>👨‍💻 All of my projects are available at <strong><a href="https://krishdevdb.github.io">https://krishdevdb.github.io</a></strong></p>
-<p>📫 How to reach me <strong><a href="mailto:krishdevdb@gmail.com">krishdevdb@gmail.com</a></strong></p>
-<p>📄 Know about my experiences <strong><a href="https://krishdevdb.github.io/resume">https://krishdevdb.github.io/resume</a></strong></p>
+<img src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&count_private=true">
 </div>
 
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&count_private=true">
+<h2> Opensource Projects</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact">
 </div>
