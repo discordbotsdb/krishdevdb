@@ -13,5 +13,7 @@
 
 <div align="center">
 <h2> Opensource Projects</h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact">
+<a href="https://github.com/krishdevdb/reseter.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"></a>
+<a href="https://github.com/krishdevdb/readme-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact"></a>
 </div>
+
