@@ -17,6 +17,6 @@
 <a href="https://github.com/krishdevdb/readme-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact"></a>
 </div>
 
-## 📕 Blog Posts { #post }
+## 📕 Blog Posts
 <!-- BLOG-POSTS:START -->
 <!-- BLOG-POSTS:END -->
