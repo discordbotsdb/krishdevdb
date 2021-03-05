@@ -20,6 +20,8 @@
 <br>
 </div>
 
+## ❤ My Favourite Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishdevdb&show_icons=true&count_private=true&layout=compact">
 
 ## 📕 Blog Posts
 <!-- BLOG-POSTS:START -->
