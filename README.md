@@ -25,10 +25,12 @@
 
 ## 📕 Blog Posts
 <!-- BLOG-POSTS:START -->
-
 - [Markdown 101 Basic To Advance Guide - Part 1](https://dev.to/krishdevdb/markdown-101-basic-to-advance-guide-part-1-pg3)
 <!-- BLOG-POSTS:END -->
 
 ## 💹 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
