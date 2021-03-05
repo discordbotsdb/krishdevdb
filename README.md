@@ -14,21 +14,21 @@
 
 <div align="center">
 <br>
-<h2 id="projects"> Opensource Projects</h2>
+<h2 id="projects"> ✨ Opensource Projects</h2>
 <a href="https://github.com/krishdevdb/reseter.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"></a>&#8198;
 <a href="https://github.com/krishdevdb/readme-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact"></a>
 <br>
 </div>
 
-## ❤ My Favourite Languages
+<h2 id="languages"> ❤ My Favourite Languages </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishdevdb&show_icons=true&count_private=true&layout=compact">
 
-## 📕 Blog Posts
+<h2 id="posts"> 📕 Blog Posts </h2>
 <!-- BLOG-POSTS:START -->
 - [Markdown 101 Basic To Advance Guide - Part 1](https://dev.to/krishdevdb/markdown-101-basic-to-advance-guide-part-1-pg3)
 <!-- BLOG-POSTS:END -->
 
-## 💹 Weekly Development Breakdown
+<h2 id="breakdown"> 💹 Weekly Development Breakdown </h2>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
