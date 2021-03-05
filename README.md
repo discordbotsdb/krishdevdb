@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<h2 id="languages"> ❤ My Favourite Languages </h2>
+<h2 id="languages"> ❤ Favourite Languages </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishdevdb&show_icons=true&count_private=true&layout=compact">
 </div>
 
@@ -42,7 +42,7 @@
 - [Markdown 101 Basic To Advance Guide - Part 1](https://dev.to/krishdevdb/markdown-101-basic-to-advance-guide-part-1-pg3)
 <!-- BLOG-POSTS:END -->
 
-<h2 id="breakdown"> 💹 Weekly Development Breakdown </h2>
+<h2 id="breakdown"> 📈 Weekly Development Breakdown </h2>
 
 <!--START_SECTION:waka-->
 ```text
