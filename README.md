@@ -1,5 +1,10 @@
 <div align="center">
-    <p><a href="projects"><img src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&label=Star"></a> <a href="https://github.com/krishdevdb?tab=followers"><img src="https://img.shields.io/github/followers/krishdevdb?logo=github&style=for-the-badge"></a>
+<p>
+<a href="projects">
+<img src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&label=Star">
+</a>
+<a href="https://github.com/krishdevdb?tab=followers">
+<img src="https://img.shields.io/github/followers/krishdevdb?logo=github&style=for-the-badge"></a>
 </p>
 <img height="100px" width="100px" src="https://github.com/krishdevdb/krishdevdb/raw/main/images/avatar.png">
 <br>
@@ -18,13 +23,17 @@
 <a href="https://github.com/krishdevdb/reseter.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"></a>&#8198;
 <a href="https://github.com/krishdevdb/readme-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact"></a>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=krishdevdb&row=1&no-frame=true">
-<br>
 </div>
 
 <div align="center">
 <h2 id="languages"> ❤ My Favourite Languages </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishdevdb&show_icons=true&count_private=true&layout=compact">
+</div>
+
+<div align="center">
+<h2 id="trophee">🏆 GitHub Trophee</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=krishdevdb&row=1&no-frame=true">
+<br>
 </div>
 
 <h2 id="posts"> 📕 Blog Posts </h2>
