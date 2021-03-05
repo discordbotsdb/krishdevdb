@@ -13,5 +13,5 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/krishdevdb"
           max_post_count: 2
-          gh_token: {{ secrets.token }}
+          gh_token: ${{ secrets.token }}
           comment_tag_name: BLOG-POSTS
