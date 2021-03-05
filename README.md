@@ -18,6 +18,8 @@
 <a href="https://github.com/krishdevdb/reseter.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"></a>&#8198;
 <a href="https://github.com/krishdevdb/readme-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact"></a>
 <br>
+<img src="https://github-profile-trophy.vercel.app/?username=krishdevdb&row=1&no-frame=true">
+<br>
 </div>
 
 <div align="center">
