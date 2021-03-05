@@ -1,5 +1,5 @@
 <div align="center">
-    <p><a href="projects"><img src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&label=Star"></a><a href="https://github.com/krishdevdb?tab=followers"><img src="https://img.shields.io/github/followers/krishdevdb?logo=github&style=for-the-badge"></a>
+    <p><a href="projects"><img src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&label=Star"></a> <a href="https://github.com/krishdevdb?tab=followers"><img src="https://img.shields.io/github/followers/krishdevdb?logo=github&style=for-the-badge"></a>
 </p>
 <img height="100px" width="100px" src="https://github.com/krishdevdb/krishdevdb/raw/main/images/avatar.png">
 <br>
