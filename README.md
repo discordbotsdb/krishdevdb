@@ -27,7 +27,6 @@
 - [Markdown 101 Basic To Advance Guide - Part 1](https://dev.to/krishdevdb/markdown-101-basic-to-advance-guide-part-1-pg3)
 <!-- BLOG-POSTS:END -->
 
-## Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+## 💹 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
