@@ -6,7 +6,7 @@
 <a href="https://github.com/krishdevdb?tab=followers">
 <img src="https://img.shields.io/github/followers/krishdevdb?logo=github&style=for-the-badge"></a>
 </p>
-<img height="100px" width="100px" src="https://github.com/krishdevdb/krishdevdb/raw/main/images/avatar.png">
+<img height="100px" width="100px" src="https://github.com/krishdevdb/krishdevdb/raw/master/images/avatar.png">
 <br>
 <h1>Krish Dev DB</h1>
 <h4>A Opensource Developer</h4>
