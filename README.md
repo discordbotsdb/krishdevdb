@@ -1,25 +1,33 @@
-<h1 align="center">Hi 👋, I'm Krish</h1>
+<div align="center">
+	<p>
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/krishdevdb?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=flat-square">
+	</p>
+	<img height="100px" width="100px" src="https://github.com/krishdevdb/krishdevdb/raw/main/images/avatar.png"><br>
+    <h1>Krish Dev DB</h1>
+    <h4>A Opensource Developer</h4>
+    <p>
+        <a href="https://twitter.com/krishdevdb">
+        <img src="https://raw.githubusercontent.com/krishdevdb/krishdevdb/main/images/icons/twitter.png">
+        </a>
+        <a href="https://facebook.com/krishdevdb">
+        <img src="https://raw.githubusercontent.com/krishdevdb/krishdevdb/main/images/icons/facebook.png">
+        </a>
+    </p>
+</div>
 
-<h3 align="center">A Opensource Developer</h3>
 
-<p align="center">I am developer, who works on opensource projects. Sometimes, I write articles on <a href="https://medium.com/@krishdevdb">Medium</a> and <a href="https://dev.to/krishdevdb">Dev.to</a>. I also make some tutorials for coding on <a href="">Youtube</a> </p>
+*   🔭 I’m currently working on **[Reseter.css](https://github.com/krishdevdb/reseter.css)**
 
-- 🔭 I’m currently working on [Reseter.css](https://github.com/krishdevdb/reseter.css)
+*   🌱 I’m currently learning **Everything ✌**
 
-- 🌱 I’m currently learning **Vue, Angular**
+*   👯 I’m looking to collaborate on **[Readme Template](https://github.com/krishdevdb/readme-template)**
 
-- 👯 I’m looking to collaborate on [Utility.css](https://github.com/krishdevdb/utility.css)
+*   👨‍💻 All of my projects are available at **<https://krishdevdb.github.io>**
 
-- 🤝 I’m looking for help with [Mineral.css](https://github.com/krishdevdb/mineral.css)
+*   📝 I regularly write articles on **<https://medium.com/@krishdevdb>**
 
-- 👨‍💻 All of my projects are available at [https://krishdevdb.github.io](https://krishdevdb.github.io)
+*   📫 How to reach me **krishdevdb@gmail.com**
 
-- 📝 I regularly write articles on [https://medium.com/@krishdevdb](https://medium.com/@krishdevdb)
+*   📄 Know about my experiences **<https://krishdevdb.github.io/resume>**
 
-- 💬 Ask me about **React, Discord.js, CSS**
-
-- 📫 How to reach me **krishdevdb@gmail.com**
-
-- 📄 Know about my experiences [https://krishdevdb.github.io/resume](https://krishdevdb.github.io/resume)
-
-- ⚡ Fun fact **I am __maybe__ developing something**
+*   ⚡ Fun fact **I Learnt Programming By Creating Discord Bots in JS**
