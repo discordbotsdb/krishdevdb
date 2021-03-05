@@ -15,3 +15,6 @@ jobs:
           max_post_count: 2
           gh_token: ${{ secrets.token }}
           comment_tag_name: BLOG-POSTS
+          committer_username: krishdevdb
+          committer_email: krishdevdb@gmail.com
+          enable_keepalive: false
