@@ -20,8 +20,10 @@
 <br>
 </div>
 
+<div align="center">
 <h2 id="languages"> ❤ My Favourite Languages </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishdevdb&show_icons=true&count_private=true&layout=compact">
+</div>
 
 <h2 id="posts"> 📕 Blog Posts </h2>
 <!-- BLOG-POSTS:START -->
