@@ -5,20 +5,28 @@
 <br>
 <h1>Krish Dev DB</h1>
 <h4>A Opensource Developer</h4>
+<br>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&count_private=true">
-</div><br>
+<br>
+</div>
 
 <div align="center">
+<br>
 <h2 id="projects"> Opensource Projects</h2>
 <a href="https://github.com/krishdevdb/reseter.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=reseter.css&show_icons=true&count_private=true&layout=compact"></a>&#8198;
 <a href="https://github.com/krishdevdb/readme-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishdevdb&repo=readme-template&show_icons=true&count_private=true&layout=compact"></a>
+<br>
 </div>
 
 
-## 📕 Blog Posts
+## 📕 Blog Posts {#posts}
 <!-- BLOG-POSTS:START -->
 
 - [Markdown 101 Basic To Advance Guide - Part 1](https://dev.to/krishdevdb/markdown-101-basic-to-advance-guide-part-1-pg3)
 <!-- BLOG-POSTS:END -->
+
+## Recent Activity {#activity}
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
