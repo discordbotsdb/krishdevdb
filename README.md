@@ -38,3 +38,8 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<h2 id="activity"> ⚡ Recent Activity </h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
