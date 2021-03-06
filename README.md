@@ -36,13 +36,13 @@
 <br>
 </div>
 
-<h2 id="posts"> 📕 Blog Posts </h2>
+<h2 align="center" id="posts"> 📕 Blog Posts </h2>
 
 <!-- BLOG-POSTS:START -->
 - [Markdown 101 Basic To Advance Guide - Part 1](https://dev.to/krishdevdb/markdown-101-basic-to-advance-guide-part-1-pg3)
 <!-- BLOG-POSTS:END -->
 
-<h2 id="breakdown"> 📈 Weekly Development Breakdown </h2>
+<h2 align="center" id="breakdown"> 📈 Weekly Development Breakdown </h2>
 
 <!--START_SECTION:waka-->
 ```text
@@ -52,7 +52,7 @@ YAML       14 mins         █░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<h2 id="activity"> ⚡ Recent Activity </h2>
+<h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2174](https://github.com/github/explore/issues/2174) in [github/explore](https://github.com/github/explore)
