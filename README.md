@@ -57,9 +57,9 @@ Python       15 mins         ▒░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2181](https://github.com/github/explore/issues/2181) in [github/explore](https://github.com/github/explore)
-2. 💪 Opened PR [#1](https://github.com/dylan-k/explore/pull/1) in [dylan-k/explore](https://github.com/dylan-k/explore)
-3. 💪 Opened PR [#11](https://github.com/Selekkt/skelet/pull/11) in [Selekkt/skelet](https://github.com/Selekkt/skelet)
-4. 🗣 Commented on [#2174](https://github.com/github/explore/issues/2174) in [github/explore](https://github.com/github/explore)
-5. 💪 Opened PR [#2174](https://github.com/github/explore/pull/2174) in [github/explore](https://github.com/github/explore)
+1. ❗️ Closed issue [#7](https://github.com/krishdevdb/reseter.css/issues/7) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+2. 🗣 Commented on [#7](https://github.com/krishdevdb/reseter.css/issues/7) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+3. 🗣 Commented on [#2181](https://github.com/github/explore/issues/2181) in [github/explore](https://github.com/github/explore)
+4. 💪 Opened PR [#1](https://github.com/dylan-k/explore/pull/1) in [dylan-k/explore](https://github.com/dylan-k/explore)
+5. 💪 Opened PR [#11](https://github.com/Selekkt/skelet/pull/11) in [Selekkt/skelet](https://github.com/Selekkt/skelet)
 <!--END_SECTION:activity-->
