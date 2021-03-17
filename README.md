@@ -63,3 +63,7 @@ Git Config   12 mins         █░░░░░░░░░░░░░░░░
 4. 💪 Opened PR [#1](https://github.com/dylan-k/explore/pull/1) in [dylan-k/explore](https://github.com/dylan-k/explore)
 5. 💪 Opened PR [#11](https://github.com/Selekkt/skelet/pull/11) in [Selekkt/skelet](https://github.com/Selekkt/skelet)
 <!--END_SECTION:activity-->
+
+<h2 align="center" id="music"> 🎶 Recently Played Music </h2>
+
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=s5rojvf8u4ywr2pap5s9es1bg&cover_image=true&theme=compact"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=s5rojvf8u4ywr2pap5s9es1bg&redirect=true"></a>
