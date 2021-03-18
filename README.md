@@ -57,11 +57,11 @@ Vue.js       7 mins          ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2197](https://github.com/github/explore/issues/2197) in [github/explore](https://github.com/github/explore)
-2. ❗️ Closed issue [#7](https://github.com/krishdevdb/reseter.css/issues/7) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-3. 🗣 Commented on [#7](https://github.com/krishdevdb/reseter.css/issues/7) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
-4. 🗣 Commented on [#2181](https://github.com/github/explore/issues/2181) in [github/explore](https://github.com/github/explore)
-5. 💪 Opened PR [#1](https://github.com/dylan-k/explore/pull/1) in [dylan-k/explore](https://github.com/dylan-k/explore)
+1. 🗣 Commented on [#2199](https://github.com/github/explore/issues/2199) in [github/explore](https://github.com/github/explore)
+2. 🗣 Commented on [#2199](https://github.com/github/explore/issues/2199) in [github/explore](https://github.com/github/explore)
+3. 🗣 Commented on [#2197](https://github.com/github/explore/issues/2197) in [github/explore](https://github.com/github/explore)
+4. ❗️ Closed issue [#7](https://github.com/krishdevdb/reseter.css/issues/7) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
+5. 🗣 Commented on [#7](https://github.com/krishdevdb/reseter.css/issues/7) in [krishdevdb/reseter.css](https://github.com/krishdevdb/reseter.css)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="music"> 🎶 Recently Played Music </h2>
