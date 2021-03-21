@@ -57,11 +57,11 @@ JSON         12 mins         ▓░░░░░░░░░░░░░░░░
 <h2 align="center" id="activity"> ⚡ Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#447](https://github.com/wesbos/JavaScript30/issues/447) in [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
-2. 💪 Opened PR [#447](https://github.com/wesbos/JavaScript30/pull/447) in [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
-3. 🗣 Commented on [#2199](https://github.com/github/explore/issues/2199) in [github/explore](https://github.com/github/explore)
-4. 🗣 Commented on [#2199](https://github.com/github/explore/issues/2199) in [github/explore](https://github.com/github/explore)
-5. 🗣 Commented on [#2197](https://github.com/github/explore/issues/2197) in [github/explore](https://github.com/github/explore)
+1. ❌ Closed PR [#447](https://github.com/wesbos/JavaScript30/pull/447) in [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+2. 🗣 Commented on [#2205](https://github.com/github/explore/issues/2205) in [github/explore](https://github.com/github/explore)
+3. 🗣 Commented on [#447](https://github.com/wesbos/JavaScript30/issues/447) in [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+4. 💪 Opened PR [#447](https://github.com/wesbos/JavaScript30/pull/447) in [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+5. 🗣 Commented on [#2199](https://github.com/github/explore/issues/2199) in [github/explore](https://github.com/github/explore)
 <!--END_SECTION:activity-->
 
 <h2 align="center" id="music"> 🎶 Recently Played Music </h2>
