@@ -30,13 +30,13 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.waka_api }}
           GH_TOKEN: ${{ secrets.token }}
           COMMIT_MESSAGE: 'Update Profile With Weekly Development Breakdown'
-  activity:
-    name: Update Profile With Recent Activity
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.token }}
-        with:
-          COMMIT_MSG: 'Update Profile With Recent Activity'
+#  activity:
+#    name: Update Profile With Recent Activity
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v2
+#      - uses: jamesgeorge007/github-activity-readme@master
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.token }}
+#        with:
+#          COMMIT_MSG: 'Update Profile With Recent Activity'
